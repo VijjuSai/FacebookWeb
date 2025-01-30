@@ -1,0 +1,152 @@
+{
+  "users": [
+    {
+      "name": "sai",
+      "email": "raju",
+      "password": "888888888888",
+      "gender": "male",
+      "phone": "88999",
+      "report": 1,
+      "id": 1
+    }
+  ],
+  "admin": [
+    {
+      "name": "Ramu",
+      "email": "555",
+      "password": "777",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "userId": "2",
+      "postname": "morning",
+      "postContent": "hi all",
+      "date": "22-12-2022",
+      "approved": "true",
+      "rejected": "false",
+      "likes": 2,
+      "id": 1
+    },
+    {
+      "userId": "2",
+      "postname": "Football",
+      "postContent": "Messi won worldcup for first time",
+      "date": "22-12-2022",
+      "approved": "false",
+      "rejected": "false",
+      "likes": 5,
+      "comment": "ya man i had lunch UserId: 3",
+      "id": 2
+    },
+    {
+      "userId": "3",
+      "postname": "Nature",
+      "postContent": "In future we don't see much trees like now",
+      "date": "22-12-2022",
+      "approved": "false",
+      "rejected": "false",
+      "likes": 4,
+      "comment": "I like treesUserId:3",
+      "id": 3
+    },
+    {
+      "userId": "2",
+      "postname": "Walking",
+      "postContent": "it is good for health",
+      "date": "22-12-2022",
+      "approved": "false",
+      "rejected": "false",
+      "likes": 2,
+      "comment": "nice  UserId: 7",
+      "id": 4
+    },
+    {
+      "postname": "man",
+      "date": "2022-12-22",
+      "approved": true,
+      "rejected": false,
+      "likes": null,
+      "id": 5
+    },
+    {
+      "userId": "2",
+      "postname": "sura is all time great",
+      "postContent": "But he was quite aggresive",
+      "date": "22-12-2022",
+      "approved": "true",
+      "rejected": "false",
+      "likes": 3,
+      "id": 6
+    }
+  ],
+  "cart": [
+    {
+      "productId": 5,
+      "name": "Family pack chicken briyani",
+      "userId": "1",
+      "noofplates": "2",
+      "price": 1766,
+      "id": 10
+    }
+  ],
+  "message": [
+    {
+      "date": "22-12-2022",
+      "fromuser": "suraKoti",
+      "touser": "swetha",
+      "content": "hi swetha im suri",
+      "id": 2
+    },
+    {
+      "date": "22-12-2022",
+      "fromuser": "swetha",
+      "touser": "suraKoti",
+      "content": "Hi tinnav ha ra ekd vunavu",
+      "id": 3
+    },
+    {
+      "date": "22-12-2022",
+      "fromuser": "vijju",
+      "touser": "suraKoti",
+      "content": "arey slept ha ",
+      "id": 4
+    },
+    {
+      "date": "22-12-2022",
+      "fromuser": "vijju",
+      "touser": "sai",
+      "content": "arey ekd vunavu ra babu",
+      "id": 5
+    },
+    {
+      "date": "22-12-2022",
+      "fromuser": "sai",
+      "touser": "suraKoti",
+      "content": "arey ashok gadu sapudu ledhu enti ra",
+      "id": 6
+    },
+    {
+      "date": "22-12-2022",
+      "fromuser": "suraKoti",
+      "touser": "sai",
+      "content": "arey narotham ekd vunadu ra",
+      "id": 7
+    },
+    {
+      "date": "22-12-2022",
+      "fromuser": "vijjusai",
+      "touser": "swetha",
+      "content": "hi how r u?",
+      "id": 8
+    },
+    {
+      "date": "22-12-2022",
+      "fromuser": "vijjusai",
+      "touser": "vijju",
+      "content": "ekkada vunnav bey",
+      "id": 9
+    }
+  ]
+}
